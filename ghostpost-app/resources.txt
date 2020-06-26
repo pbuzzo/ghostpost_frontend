@@ -1,0 +1,14 @@
+Resources:
+- https://www.valentinog.com/blog/drf-request/
+- https://www.valentinog.com/blog/drf/
+- https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+- https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method
+- https://stackoverflow.com/questions/3428536/python-list-subtraction-operation
+- https://www.django-rest-framework.org/api-guide/serializers/
+- https://www.django-rest-framework.org/api-guide/viewsets/#marking-extra-actions-for-routing
+- https://www.genuitec.com/how-to-build-crud-application-using-react-and-django/ (Create React Form, proper usage, etc.)
+- https://www.htmlquick.com/reference/tags/input-radio.html
+- https://blog.logrocket.com/creating-an-app-with-react-and-django/
+- https://medium.com/@gazzaazhari/django-backend-react-frontend-basic-tutorial-6249af7964e4
+- https://stackoverflow.com/questions/38337262/cannot-render-boolean-value-in-jsx
+- https://css-tricks.com/fetching-data-in-react-using-react-async/#:~:text=External%20JavaScript&text=React%20Async%20is%20a%20promised,loading%20states%20when%20making%20requests.
